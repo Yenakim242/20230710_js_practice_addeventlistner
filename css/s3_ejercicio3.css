@@ -1,0 +1,14 @@
+.ej03{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+    cursor: pointer;
+}
+
+.cambiaColor1{
+    background-color: violet;
+}
+
+.cambiaColor2{
+    background-color: paleturquoise;
+}
